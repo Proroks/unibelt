@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'FuturaPT';
+  src: url('FuturaPTBook.eot?#iefix') format('embedded-opentype'),  url('FuturaPTBook.woff') format('woff'), url('FuturaPTBook.ttf')  format('truetype'), url('FuturaPTBook.svg#FuturaPTBook') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'FuturaPT';
+  src: url('FuturaPTLight.eot?#iefix') format('embedded-opentype'),  url('FuturaPTLight.woff') format('woff'), url('FuturaPTLight.ttf')  format('truetype'), url('FuturaPTLight.svg#FuturaPTLight') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaPT';
+  src: url('FuturaPTBold.eot?#iefix') format('embedded-opentype'),  url('FuturaPTBold.woff') format('woff'), url('FuturaPTBold.ttf')  format('truetype'), url('FuturaPTBold.svg#FuturaPTBold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
